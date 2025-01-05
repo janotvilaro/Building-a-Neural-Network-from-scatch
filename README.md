@@ -1,5 +1,5 @@
 # Building-a-Neural-Network-from-scatch
-This repository presents the code and design of a fully connected neural network (NN) created from scratch, which bases its learning in the Stochastic Gradient Descent method (SGD). The net was designed to be selfconsistent, and it realies only in the libraries NumPy and random. The user can easily input the desired number of layers together with the number of neurons per layer, which can be different for each layer.
+This repository presents the code and design of a fully connected neural network (NN) created from scratch, which bases its learning in the Stochastic Gradient Descent method (SGD). The net was designed to be selfconsistent, and it relies only in the libraries NumPy and random. The user can easily input the desired number of layers together with the number of neurons per layer, which can be different for each layer.
 
 Moreover, the NN has been succesfully trained and used to predict handwritten digits from the MNIST dataset, and it could potentially be used for many other purposes only by changing the number of neurons in the first and last layers. (More details on the section "Comments on use")
 
