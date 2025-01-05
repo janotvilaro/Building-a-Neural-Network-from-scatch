@@ -10,11 +10,11 @@ To ilustrate the functioning of the net, we present a comparaison of its accurac
 ![NN vs SVM](our_NN/figures/svm_vs_nn.jpg)
 
 ## Comments on use
-**A) Use the network and train it with MNIST:
+**A) Use the network and train it with MNIST:**
 
 Download the two Python files that can be found inside the folder named "our_NN". The NN.py file contains all the functions required for the network to work, such as the SGD algorithm, the feedforward function, the cost functions, the routine in charge of backpropagation etc. The run.py file is the one to be executed. It calls the NN, initializes the weights and biases and starts the learing process. 
 
-**B) Use the NN with a different dataset:
+**B) Use the NN with a different dataset:**
 
 If we want to use the NN to learn from a different dataset, we have to follow the next schematic steps:
 
